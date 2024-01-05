@@ -1,1 +1,1 @@
-Models describing the impact of COVID-19 pandemic responses on the community transmission of antibiotic-resistant bacteria across six different pandemic scenarios.
+Script for the best model scenario for the manuscript titled "Revealing the drivers of antibiotic resistance trends in Streptococcus pneumoniae amidst the 2020 COVID-19 pandemic: Insights from mathematical modeling". 
